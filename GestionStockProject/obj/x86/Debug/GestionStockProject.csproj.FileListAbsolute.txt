@@ -1,0 +1,17 @@
+C:\Users\acer\AppData\Local\Temporary Projects\GestionStockProject\bin\Debug\GestionStockProject.exe
+C:\Users\acer\AppData\Local\Temporary Projects\GestionStockProject\bin\Debug\GestionStockProject.pdb
+C:\Users\acer\AppData\Local\Temporary Projects\GestionStockProject\obj\x86\Debug\GestionStockProject.GestionStock.resources
+C:\Users\acer\AppData\Local\Temporary Projects\GestionStockProject\obj\x86\Debug\GestionStockProject.Properties.Resources.resources
+C:\Users\acer\AppData\Local\Temporary Projects\GestionStockProject\obj\x86\Debug\GestionStockProject.csproj.GenerateResource.Cache
+C:\Users\acer\AppData\Local\Temporary Projects\GestionStockProject\obj\x86\Debug\GestionStockProject.exe
+C:\Users\acer\AppData\Local\Temporary Projects\GestionStockProject\obj\x86\Debug\GestionStockProject.pdb
+C:\Users\acer\AppData\Local\Temporary Projects\GestionStockProject\obj\x86\Debug\GestionStockProject.gestionCategories.resources
+C:\Users\acer\documents\visual studio 2010\Projects\GestionStockProject\GestionStockProject\obj\x86\Debug\GestionStockProject.exe
+C:\Users\acer\documents\visual studio 2010\Projects\GestionStockProject\GestionStockProject\obj\x86\Debug\GestionStockProject.pdb
+C:\Users\acer\documents\visual studio 2010\Projects\GestionStockProject\GestionStockProject\bin\Debug\GestionStockProject.exe
+C:\Users\acer\documents\visual studio 2010\Projects\GestionStockProject\GestionStockProject\bin\Debug\GestionStockProject.pdb
+C:\Users\acer\documents\visual studio 2010\Projects\GestionStockProject\GestionStockProject\obj\x86\Debug\GestionStockProject.GestionStock.resources
+C:\Users\acer\documents\visual studio 2010\Projects\GestionStockProject\GestionStockProject\obj\x86\Debug\GestionStockProject.gestionCategories.resources
+C:\Users\acer\documents\visual studio 2010\Projects\GestionStockProject\GestionStockProject\obj\x86\Debug\GestionStockProject.Properties.Resources.resources
+C:\Users\acer\documents\visual studio 2010\Projects\GestionStockProject\GestionStockProject\obj\x86\Debug\GestionStockProject.csproj.GenerateResource.Cache
+C:\Users\acer\documents\visual studio 2010\Projects\GestionStockProject\GestionStockProject\obj\x86\Debug\GestionStockProject.GestionProduit.resources
